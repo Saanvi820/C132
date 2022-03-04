@@ -1,0 +1,12 @@
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 60px;
+}
+
+a {
+    float:right !important;
+    margin: 5px !important;
+    cursor: pointer !important;
+    color: white !important;
+    font: size 20px !important;
+}
